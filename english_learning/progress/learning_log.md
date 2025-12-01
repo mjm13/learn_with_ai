@@ -48,26 +48,49 @@
   - 综合测验: 7.5/10 (75%) - 良好
 - **备注**: 复习发现易混淆词汇(throttle/debounce, concurrent/parallel, authentication/authorization),完成HTTP/API主题学习,词汇量突破50个
 
+
+### 第2周
+
+#### 2025-12-01 (第3天 - 上午)
+- **学习时长**: 30分钟
+- **学习内容**: 第1周词汇综合测验(55个词汇)
+- **新学词汇**: 0个 (复习巩固)
+- **阅读材料**: 无
+- **测验结果**: 88/100 (88%) - 优秀
+  - 第一部分(词汇匹配): 30/30 (100%) ✅
+  - 第二部分(完形填空): 40/40 (100%) ✅
+  - 第三部分(英译中): 13/15 (87%) ⭐
+  - 第四部分(场景应用): 5/15 (33%) ⚠️
+- **备注**: 基础扎实,语境理解强,但易混淆词汇(throttle/debounce, concurrent/parallel)仍需加强,这是第2次在这些词上出错
+
+#### 2025-12-01 (第3天 - 下午)
+- **学习时长**: 40分钟
+- **学习内容**: 前端框架核心词汇(React/Vue/Angular方向)
+- **新学词汇**: 25个 (component, lifecycle, mount, render, state, props, hook, effect, binding, directive, emit, listener, propagation, bubbling, capture, delegate, optimize, memoize, lazy, suspense, fallback, bundle, chunk, tree-shaking, hydrate)
+- **阅读材料**: 无
+- **测验结果**: 3.5/5 (70%) - 良好
+- **备注**: 新词汇学习顺利,但出现概念混淆(mount vs lifecycle, propagation vs bubbling),需要注意区分总称和具体概念
+
 ---
 
 ## 累计统计
 
 ### 总体数据
-- **总学习天数**: 2天
-- **总学习时长**: 1.7小时
-- **累计词汇量**: 55个
+- **总学习天数**: 3天
+- **总学习时长**: 2.7小时 (今日1.2小时)
+- **累计词汇量**: 80个 (↑新增25个)
 - **阅读文章数**: 1篇 (评估用)
 
 ### 词汇统计
-- **已掌握词汇**: 42个 (约76%掌握率)
-- **学习中词汇**: 55个
-- **需复习词汇**: 13个 (易混淆词汇需重点复习)
+- **已掌握词汇**: 66个 (约83%掌握率)
+- **学习中词汇**: 80个
+- **需复习词汇**: 14个 (throttle, debounce, concurrent, parallel, payload, mount, lifecycle, propagation, bubbling需重点复习)
 
 ### 能力进度
-- **词汇能力**: ⭐⭐⭐⭐☆ (↑提升)
+- **词汇能力**: ⭐⭐⭐⭐☆ (稳步提升)
 - **阅读速度**: ⭐⭐⭐☆☆
-- **理解准确度**: ⭐⭐⭐⭐☆
-- **综合水平**: Level 2-3 (稳步提升)
+- **理解准确度**: ⭐⭐⭐⭐⭐ (优秀)
+- **综合水平**: Level 2-3 (稳步提升,接近Level 3)
 
 ---
 
@@ -81,13 +104,15 @@
 | 2025-11-26 | 异步编程词汇 | 4/5 | 80% | 掌握良好 |
 | 2025-11-27 | 异步编程复习 | 8/15 | 53% | 需加强易混词 |
 | 2025-11-27 | HTTP/API综合 | 7.5/10 | 75% | 掌握良好 |
+| 2025-12-01 | 第1周综合测验 | 88/100 | 88% | 优秀!基础扎实 |
+| 2025-12-01 | 前端框架词汇 | 3.5/5 | 70% | 良好,需区分概念 |
 
 ---
 
 ## 学习里程碑
 
 - [x] 完成水平评估 ✅
-- [ ] 掌握100个基础编程词汇 (进度: 55/100) 🔄
+- [ ] 掌握100个基础编程词汇 (进度: 80/100) 🔄 接近完成!
 - [ ] 独立阅读第一篇GitHub README
 - [ ] 掌握300个编程词汇
 - [ ] 阅读并理解简单API文档
@@ -129,6 +154,19 @@ authentication, authorization, token, credential, encrypt
 
 *数据格式*:
 JSON, parse, serialize, CORS, REST
+
+### 本周学习词汇 (Week 2)
+
+#### **第3天 - 前端框架核心词汇 (25个)**
+
+*组件与生命周期*:
+component, lifecycle, mount, render, state, props, hook, effect
+
+*数据流与事件*:
+binding, directive, emit, listener, propagation, bubbling, capture, delegate
+
+*性能优化*:
+optimize, memoize, lazy, suspense, fallback, bundle, chunk, tree-shaking, hydrate
 
 ### 已掌握词汇库
 
