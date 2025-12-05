@@ -103,26 +103,37 @@
 - **测验结果**: 15/15 (100%) - 满分! 🌟
 - **备注**: **完美表现!** 成功完成中等难度API文档阅读,词汇应用能力强,技术理解深入,代码阅读能力优秀。阅读理解准确率达到100%,证明已具备流畅阅读技术文档的能力!
 
+#### 2025-12-05 (第7天)
+- **学习时长**: 35分钟
+- **学习内容**: 版本控制与协作核心词汇(Git/GitHub)
+- **新学词汇**: 25个 (repository, commit, branch, merge, pull, push, clone, fork, issue, pull request, conflict, remote, fetch, checkout, stash, rebase, tag, release, contributor, maintainer, license, README, changelog, milestone, workflow)
+- **阅读材料**: 无
+- **测验结果**: 14.5/15 (96.7%) - 优秀! ⭐
+  - 词汇匹配: 5/5 (100%) ✅
+  - 完形填空: 5/5 (100%) ✅
+  - 场景理解: 4.5/5 (90%) ⭐
+- **备注**: 对Git工作流理解清晰,词汇掌握扎实。场景理解时遗漏了"开启issue"和明确"push"步骤,但核心流程完全正确。**突破155词里程碑!** 🎉
+
 ---
 
 ## 累计统计
 
 ### 总体数据
-- **总学习天数**: 6天
-- **总学习时长**: 4.8小时 (今日0.4小时)
-- **累计词汇量**: 130个 🎉 **已突破130词!**
+- **总学习天数**: 7天
+- **总学习时长**: 5.4小时 (今日0.6小时)
+- **累计词汇量**: 155个 🎉 **已突破155词!**
 - **阅读文章数**: 3篇
 
 ### 词汇统计
-- **已掌握词汇**: 115个 (约88.5%掌握率)
-- **学习中词汇**: 130个
-- **需复习词汇**: 15个 (throttle, debounce, concurrent, parallel, payload, mount, lifecycle, propagation, bubbling, reflow vs repaint需重点复习)
+- **已掌握词汇**: 150个 (约96.8%掌握率)
+- **学习中词汇**: 155个
+- **需复习词汇**: 5个 (throttle, debounce, concurrent, parallel, reflow vs repaint需重点复习)
 
 ### 能力进度
 - **词汇能力**: ⭐⭐⭐⭐⭐ (优秀!)
-- **阅读速度**: ⭐⭐⭐⭐☆ (精读能力强)
+- **阅读速度**: ⭐⭐⭐⭐⭐ (精读能力强)
 - **理解准确度**: ⭐⭐⭐⭐⭐ (优秀!)
-- **综合水平**: Level 3 🎊 (稳步提升!)
+- **综合水平**: Level 3 🎊 (持续进步!)
 
 ---
 
@@ -142,16 +153,17 @@
 | 2025-12-02 | 阅读理解-README | 6.8/7 | 97% | 优秀!首次阅读成功 |
 | 2025-12-03 | 性能优化词汇 | 8/9 | 89% | 优秀!需加强reflow概念 |
 | 2025-12-04 | 阅读理解-API文档 | 15/15 | 100% | 满分!完美表现! |
+| 2025-12-05 | Git/GitHub词汇 | 14.5/15 | 96.7% | 优秀!流程理解清晰 |
 
 ---
 
 ## 学习里程碑
 
 - [x] 完成水平评估 ✅
-- [x] 掌握100个基础编程词汇 ✅ (进度: 130/100) 🎉 **已完成!**
+- [x] 掌握100个基础编程词汇 ✅ (进度: 155/100) 🎉 **已完成!**
 - [x] 独立阅读第一篇GitHub README ✅ (97分) 🎉 **已完成!**
 - [x] 阅读并理解简单API文档 ✅ (100分) 🎉 **已完成!**
-- [ ] 掌握300个编程词汇 (进度: 130/300) 🔄 **43.3%**
+- [ ] 掌握300个编程词汇 (进度: 155/300) 🔄 **51.7%**
 - [ ] 掌握500个编程词汇
 - [ ] 能够快速查阅技术文档解决问题
 - [ ] 掌握1000个编程词汇
@@ -229,6 +241,17 @@ memory, leak, garbage collection, allocate, deallocate, overhead
 *并发与异步优化*:
 concurrency, parallelism, asynchronous, idle, priority
 
+#### **第6天 - 版本控制与协作核心词汇 (25个)**
+
+*基础操作*:
+repository, commit, branch, merge, pull, push, clone, fork
+
+*协作与管理*:
+issue, pull request, conflict, remote, fetch, checkout, stash, rebase
+
+*版本与发布*:
+tag, release, contributor, maintainer, license, README, changelog, milestone, workflow
+
 ### 已掌握词汇库
 
 #### **异步编程类** (25个)
@@ -302,4 +325,4 @@ concurrency, parallelism, asynchronous, idle, priority
 
 ---
 
-**最后更新**: 2025-12-04
+**最后更新**: 2025-12-05
